@@ -46,8 +46,8 @@ This layout structures the playbook content to make it easy day to day to find r
   - [Feature Branching (creating branch for new story)](source-control/feature-branching/readme.md)
 - Day 2
   - [Source Control](source-control/readme.md)
-    - Commit best practices
-    - [Git guide](source-control/git.md)
+    - [Commit best practices](source-control/contributing/readme.md#commit-best-practices)
+    - [Git guidance](source-control/git-guidance/readme.md)
   - [Continuous Integration](continuous-integration/readme.md)
     - Conceptual (Purpose, Goals, Impact, and Measures)
       - Recipes for ADO
